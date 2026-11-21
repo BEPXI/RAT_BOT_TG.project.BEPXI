@@ -6,6 +6,10 @@ CHAT_ID = 11111111
 поставить свой бот токен(вам нужно создать своего бота)
 и поставить свой айди телеграмма
 
+после зайти в cmd и выполнить эту команду:
+pip install pyinstaller
+pyinstaller --version
+
 после установить все пакеты и зависимости:
 pip install aiogram opencv-python psutil pyautogui pillow numpy pywin32 mouse keyboard requests
 
